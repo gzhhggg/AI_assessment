@@ -110,7 +110,7 @@ result_last.to_csv("result.csv",index = False)
 # Note  
 LightGBMを使って回帰モデルを作成した。  
 pandasの使い方が分かってなくて今見るとかなり汚い。  
-パラメータのチューニングも行えていない。  
+パラメータのチューニングは手動で行った。  
  
 # Author
 
